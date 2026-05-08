@@ -8,7 +8,6 @@ Aviation software portfolio focused on self-hosted operational dashboards, live 
 Self-hosted live aviation operations dashboard for airport weather, runway conditions, hazards, alternates, and airport situational awareness.
 
 **Repo:** https://github.com/ApiFlier/airfieldops-dashboard  
-**Live:** https://meeks.cc  
 **Tech:** FastAPI, Docker, SQLite, JavaScript, AviationWeather.gov, NWS, OurAirports
 
 Demonstrates aviation-domain product thinking, public-data integration, Dockerized deployment, automated testing, read-only public mode, and operational dashboard design.
