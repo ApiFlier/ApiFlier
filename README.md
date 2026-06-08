@@ -1,4 +1,4 @@
-# Charlie Meeks
+# Charles Meeks
 
 Aviation software portfolio focused on self-hosted operational dashboards, live aviation data, route intelligence, and geospatial tools.
 
