@@ -37,7 +37,7 @@ Demonstrates aviation-domain product thinking, public-data integration, Dockeriz
 ### Event Map
 Self-hosted regional event discovery map for browsing local destinations, farms, markets, and events.
 
-**Repo:** https://github.com/ApiFlier/event-map  
+**Repo:** https://github.com/UndineSites/event-map  
 **Tech:** Flask, MySQL, Docker, JavaScript, Leaflet/Esri map tiles
 
 Demonstrates geospatial UI, filtering, admin workflows, persistent data, and user-focused product design.
